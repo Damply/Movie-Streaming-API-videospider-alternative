@@ -34,9 +34,13 @@ You can change the look and behaviour of the player. Open the se_player.php file
 Now that you have uploaded the player into your website you can start calling the player with parameters.
 
 Request movie by IMDB id: https://yourwebsite.com/se_player.php?video_id=tt8385148
+
 Request movie by TMDB id: https://yourwebsite.com/se_player.php?video_id=522931&tmdb=1
+
 Request episode by IMDB id: https://yourwebsite.com/se_player.php?video_id=tt2861424&s=5&e=5
+
 Request episode by TMDB id: https://yourwebsite.com/se_player.php?video_id=60625&tmdb=1&s=5&e=5
+
 
 Paste these urls to iframe and the player will appear there.
 For IMDB id you can use tt0000000 or just number 0000000.
